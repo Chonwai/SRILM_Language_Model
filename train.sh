@@ -1,3 +1,5 @@
+mkdir ngram
+mkdir model
 cd srilm-package/bin/macosx
 echo "cd srilm-package/bin/macosx"
 for ((i=1;i<=5;i++))
